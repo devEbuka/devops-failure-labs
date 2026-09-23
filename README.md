@@ -35,7 +35,7 @@ Status: ⬜ not started · 🟨 in progress · ✅ done and written up
 
 | # | Lab | Status | Root cause (one line) | Write-up |
 |---|-----|--------|-----------------------|----------|
-| 1 | Fill the disk and inodes | ⬜ | | |
+| 1 | Fill the disk and inodes | ✅ | | |
 | 2 | Permission and ownership breakage | ⬜ | | |
 | 3 | Break a systemd service | ⬜ | | |
 | 4 | Firewall and DNS breakage | ⬜ | | |
