@@ -25,7 +25,7 @@ break-things/
 └── ansible/01-ssh-auth/incident.md
 ```
 
-One folder per lab, each with an `incident.md` (template at the bottom) and optional `evidence/` for redacted logs or screenshots.
+One folder per lab, each with an `incident.md` and optional `evidence/` for redacted logs or screenshots.
 
 ## Progress tracker
 
